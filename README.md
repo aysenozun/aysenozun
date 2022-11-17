@@ -3,10 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Ayşen Özün</h1>
 
+- 📫 I'm instructor in **Afyonkarahisar Health Sciences University (AFSU)**
 - 👀 I’m interested in **Artificial Intelligence of Medical Imaging**
 - 🌱 I’m currently learning **Signal Processing**
-- 📫 I'm instructor in **Afyonkarahisar Health Sciences University (AFSU)**
-
 - 💬  About of my skills **<a href="https://aysenozun.github.io" >aysenozun.github.io</a>**
 
 
