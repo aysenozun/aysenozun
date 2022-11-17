@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayşen Özün
+
 
 
 <h1 align="center">Hi 👋, I'm Ayşen Özün</h1>
