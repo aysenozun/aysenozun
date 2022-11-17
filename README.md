@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Signal Processing**
 - 📫 I'm instructor in **Afyonkarahisar Health Sciences University (AFSU)**
 
-- 💬 Ask me about **aysenozun.github.io**
+- 💬  About of my skills **aysenozun.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
