@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Signal Processing**
 - 💬  About of my skills **<a href="https://aysenozun.github.io" >aysenozun.github.io</a>**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aysenozun&label=Profile%20views&color=0e75b6&style=flat" alt="aysenozun" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
