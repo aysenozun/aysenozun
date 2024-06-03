@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayşen Özün</h1>
 
 - 📫 I'm lecturer in **Süleyman Demirel Üniversitesi(SDÜ)**
-- 👀 I’m interested in **Artificial Intelligence of Medical Imaging**
+- 👀 I’m interested in **AI for Health**
 - 🌱 I’m currently learning **Signal Processing**
 - 💬  About of my skills **<a href="https://aysenozun.github.io" >aysenozun.github.io</a>**
 
