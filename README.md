@@ -1,24 +1,65 @@
+<h1 align="center">Hi 👋, I'm Dr. Ayşen Özün</h1>
 
-
-
-<h1 align="center">Hi 👋, I'm Ayşen Özün</h1>
-
-- 📫 I'm lecturer in **Süleyman Demirel Üniversitesi(SDÜ)**
-- 👀 I’m interested in **AI for Health**
-- 🌱 I’m currently learning **Signal Processing**
-- 💬  About of my skills **<a href="https://aysenozun.github.io" >aysenozun.github.io</a>**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aysenozun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/aysenozun/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3711335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:3711335" height="30" width="40" /></a>
-<a href="https://kaggle.com/aysenozun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aysenozun" height="30" width="40" /></a>
-<a href="https://medium.com/@aysenozun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aysenozun" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysenozun&label=Profile%20views&color=0e75b6&style=flat" alt="aysenozun" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>PhD | Software Developer | AI Researcher</strong>
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aysenozun&label=Profile%20views&color=0e75b6&style=flat" alt="aysenozun" /> </p>
+---
 
+### 👨‍🏫 About Me
+- 🎓 I hold a **PhD** and currently serve as a **Lecturer** at **Süleyman Demirel University (SDÜ)**.
+- 🛸 I serve as a consultant for **UAV (Unmanned Aerial Vehicle)** project, specializing in autonomous flight and AI integration.
+- 🔬 **Research Focus:** My primary interests are **AI for Health**, **Computer Vision**, and **Autonomous Systems**.
+- 🚀 Currently diving deep into **Signal Processing** and advanced **YOLO** architectures.
+- 🌍 Visiting researcher at **France** and **Germany** in 2026!
+---
+
+### 📺 Featured Project: AI in Action
+<p align="left">
+  <a href="https://www.youtube.com/shorts/NWL1JMbTzbE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20YOLO%20Demo-red?style=for-the-badge&logo=youtube" alt="YOLO Demo">
+  </a>
+</p>
+<blockquote>
+  <strong>Project Highlight:</strong> Real-time object detection using YOLO. I specialize in training custom models for specialized datasets. Check out my YouTube Short for a quick demo!
+</blockquote>
+
+---
+
+### 🛠 Languages and Tools
+<p align="left"> 
+  <!-- Mevcut ikonlarını buraya aynen ekleyebilirsin, aşağıya en kritik olanları ekledim -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenozun&show_icons=true&theme=tokyonight" alt="Ayşen's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenozun&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://linkedin.com/in/aysenozun/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://aysenozun.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-Global-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://medium.com/@aysenozun" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://kaggle.com/aysenozun" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"Code is where science meets reality."</i>
+ <i>"Someone must have whispered in my ear that I should become a scientist..."</i>
+</p>
