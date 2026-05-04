@@ -20,7 +20,7 @@
 
 ### 📺 Featured Project: AI in Action
 <p align="left">
-  <a href="https://www.youtube.com/shorts/NWL1JMbTzbE" target="_blank">
+  <a href="https://www.youtube.com/shorts/ehdkPuCS9ZU" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Watch%20YOLO%20Demo-red?style=for-the-badge&logo=youtube" alt="YOLO Demo">
   </a>
 </p>
@@ -43,11 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenozun&show_icons=true&theme=tokyonight" alt="Ayşen's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenozun&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
-</p>
+
 
 ---
 
