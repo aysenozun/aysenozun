@@ -15,8 +15,9 @@
 - 🛸 I serve as a consultant for **UAV (Unmanned Aerial Vehicle)** project, specializing in autonomous flight and AI integration.
 - 🔬 **Research Focus:** My primary interests are **AI for Health**, **Computer Vision**, and **Autonomous Systems**.
 - 🚀 Currently diving deep into **Signal Processing** and advanced **YOLO** architectures.
-- 🌍 Visiting researcher at **France** and **Germany** in 2026!
----
+- 🌍 2026 AI Lab Research Tour Year
+
+
 
 ### 📺 Featured Project: AI in Action
 <p align="left">
